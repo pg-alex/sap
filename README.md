@@ -1,1 +1,1 @@
-This is just a P&G SAPLOGON Picklist Backups
+This is just a P&G SAPLOGON Picklist backup files
